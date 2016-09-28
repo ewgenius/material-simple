@@ -1,0 +1,25 @@
+{
+  "name": "material-simple",
+  "version": "1.0.0",
+  "description": "set of md ligth components for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewgenius/material-simple.git"
+  },
+  "keywords": [
+    "material",
+    "react",
+    "typescript",
+    "ui"
+  ],
+  "author": "ewgeniux@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ewgenius/material-simple/issues"
+  },
+  "homepage": "https://github.com/ewgenius/material-simple#readme"
+}
