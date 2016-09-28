@@ -22,8 +22,14 @@
   },
   "homepage": "https://github.com/ewgenius/material-simple#readme",
   "devDependencies": {
+    "@types/react": "^0.14.37",
+    "@types/react-dom": "^0.14.17",
+    "@types/react-tap-event-plugin": "0.0.30",
     "gulp": "^3.9.1",
     "gulp-sass": "^2.3.2",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-tap-event-plugin": "^1.0.0",
     "typescript": "^2.0.3"
   }
 }
