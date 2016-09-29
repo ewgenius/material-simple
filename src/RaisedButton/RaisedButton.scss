@@ -1,0 +1,11 @@
+@import '../styles/_shadow.scss';
+@import '../Button/Button.scss';
+
+.ms-button-raised {
+  border-radius: 2px;
+  @include ms-shadow(1);
+
+  &:active {
+    @include ms-shadow(2);
+  }
+}
